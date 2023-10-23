@@ -1,0 +1,17 @@
+name: monologue
+version: 0.1.0
+
+authors:
+  - Giorgi Kavrelishvili <giorgi.kavrelishvili@pm.me>
+
+targets:
+  monologue:
+    main: src/monologue.cr
+
+dependencies:
+  tilo:
+    github: grkek/tilo
+
+crystal: 1.9.2
+
+license: MIT

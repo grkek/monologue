@@ -1,0 +1,12 @@
+/*
+  index.css - StyleSheet for the main page
+*/
+
+.main-container {
+  padding: 100px;
+}
+
+.horizontal-separator{
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
